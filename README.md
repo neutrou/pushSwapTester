@@ -1,3 +1,5 @@
 Small tester for push_swap
 
-Usage : ./run \<amount of numbers> \<max amount of operations>
+git clone git@github.com:neutrou/pushSwapTester.git
+cd pushSwapTester
+./run \<amount of numbers> \<max amount of operations>
